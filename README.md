@@ -1,4 +1,4 @@
-# -lex_Robledo_Arias---Entrega-4
+# Alex_Robledo_Arias---Entrega-4
 Juego de colocación de piezas en el ordenador. Entrega Control de versiones GitHub Infomática básica
 
 El juego se puede jugar en: https://alexrobledoarias.itch.io/entrega-3
