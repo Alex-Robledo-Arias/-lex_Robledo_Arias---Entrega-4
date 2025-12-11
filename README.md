@@ -52,7 +52,7 @@ final.
 4. Repite hasta completar los 7 componentes.
 5. ¡Gana la partida cuando todos estén colocados correctamente!
 ## Créditos
-- Autor: Apellido1 Apellido2 Nombre
+- Autor: Robledo Arias álex
 - Asignatura: Informática Básica – Práctica 4
 - Grado: Diseño de Videojuegos
 - Universidad: Universidad de Burgos
